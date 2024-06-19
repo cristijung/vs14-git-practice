@@ -1,18 +1,8 @@
 .quadro-grid {
     display: flex;
     flex-direction: column;
-    border: 2px solid rgb(169, 164, 164);
+    border: 2px solid black;
     border-radius: 5px;
-    margin-top: 20px;
-}
-
-.titulo-quadro {
-    display: flex;
-    justify-content: center;
-}
-
-.titulo-quadro h1 {
-    font-size: 50px;
 }
 
 .coluna-grid {
