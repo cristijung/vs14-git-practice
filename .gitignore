@@ -1,0 +1,5 @@
+# Arquivos ignorados
+.vscode
+/.vscode
+.idea
+.env
