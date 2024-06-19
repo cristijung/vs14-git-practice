@@ -8,4 +8,4 @@ Integrantes:
 + Edson Machado
 + Igor Bueno
 + Pedro Souza
-+ Thiago Gomes
++ Thiago Gomesgity 
