@@ -8,4 +8,19 @@ Integrantes:
 + Edson Machado
 + Igor Bueno
 + Pedro Souza
-+ Thiago Gomesgity 
++ Thiago Gomes
+
+## Grupo 5
++ Michel D. Braga
++ Douglas dos Santos
++ Lucas Weber
++ Carlos Eduardo Bahia
++ Fernando Fernandes
+
+## Grupo 06
+
++ Álvaro Dias
++ Eduarda Menegueli
++ Jhonatan Rodrigues
++ João Breno Dantas
++ Pedro de Gasperi
