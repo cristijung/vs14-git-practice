@@ -57,3 +57,46 @@
 .ultima-coluna {
     margin-bottom: 50px;
 }
+
+main {
+    background-color: white;
+    margin: auto;
+    margin-bottom:  30px;
+    padding: 20px;
+    max-width: 1200px;
+    min-width: 500px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+div.imagem {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.Texto-inicial {
+    h1 {
+        text-align: center;
+        font-size: 60px;
+    }
+    p {
+        text-align: justify;
+        font-size: 20px;
+    }
+}
+
+body {
+    background-color: aliceblue;
+}
+
+div.links {
+   a {
+        text-decoration: underline;
+        font-weight: bold;
+        padding: 2px 6px;
+        border-radius: 5px;
+        color: black;
+        cursor: pointer;
+   }
+}
