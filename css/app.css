@@ -1,3 +1,6 @@
+body {
+    background-color: powderblue;
+}
 .iframeContainer {
     font-size: 26px;
     display: flex;
