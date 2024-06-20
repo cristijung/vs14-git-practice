@@ -24,3 +24,11 @@ Integrantes:
 + Jhonatan Rodrigues
 + João Breno Dantas
 + Pedro de Gasperi
+
+## Grupo 10
+
++ Rafael Isidro
++ Juan Pablo
++ Tiago Souto
++ Pedro Arruda
++ Alisson Fernandes
