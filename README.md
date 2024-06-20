@@ -16,3 +16,11 @@ Integrantes:
 + Lucas Weber
 + Carlos Eduardo Bahia
 + Fernando Fernandes
+
+## Grupo 06
+
++ Álvaro Dias
++ Eduarda Menegueli
++ Jhonatan Rodrigues
++ João Breno Dantas
++ Pedro de Gasperi
